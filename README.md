@@ -1,5 +1,3 @@
-### Olá! Eu sou Vitor Gabriel
-
 - 🖥️ Olá eu sou Vitor Gabriel !!
 
 <div align="center">
