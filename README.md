@@ -1,4 +1,6 @@
-- 🖥️ Olá eu sou Vitor Gabriel !!
+### 🖥️ Olá eu sou Vitor Gabriel !!
+
+- 🎮 Gosto de jogos e conteúdo Geek!
 
 <div align="center">
   <a href="https://github.com/vitorgtgs">
